@@ -1,2 +1,2 @@
 # scoring_application
-Sample scoring application
+Sample Blumix scoring application integrated with Predictive Analytics service.
