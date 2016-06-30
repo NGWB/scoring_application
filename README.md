@@ -1,5 +1,5 @@
 # Scoring application 
-##Sample Blumix application for SPSS MOdeler streams scoring in the Bluemix cloud
+###Sample Blumix application for SPSS MOdeler streams scoring in the Bluemix cloud
 ###This sample application shows how to easily score csv data using SPSS Modeler stream in Bluemix.
 ###Within sample scoring application you are able to:
 * select one of stream uploaded to Predictive Analytics on Bluemix
